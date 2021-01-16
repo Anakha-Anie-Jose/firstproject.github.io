@@ -1,0 +1,21 @@
+header{
+
+    width: 100%;
+    background-size: 1500px;
+    color:black;
+}
+.head{
+    text-align: center;
+    width: 100%;
+    font-size: 75px;
+}
+a{
+    text-decoration: none;
+}
+.home{
+    color:black;
+}
+h1{
+    text-align: center;
+    width: 100%;
+}
